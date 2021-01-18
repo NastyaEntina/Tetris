@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c63c993.chunk.css",
+    "main.js": "/static/js/main.f283e200.chunk.js",
+    "main.js.map": "/static/js/main.f283e200.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.92971a60.js",
+    "runtime-main.js.map": "/static/js/runtime-main.92971a60.js.map",
+    "static/js/2.83436c40.chunk.js": "/static/js/2.83436c40.chunk.js",
+    "static/js/2.83436c40.chunk.js.map": "/static/js/2.83436c40.chunk.js.map",
+    "static/js/3.2f046ca1.chunk.js": "/static/js/3.2f046ca1.chunk.js",
+    "static/js/3.2f046ca1.chunk.js.map": "/static/js/3.2f046ca1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6c63c993.chunk.css.map": "/static/css/main.6c63c993.chunk.css.map",
+    "static/js/2.83436c40.chunk.js.LICENSE.txt": "/static/js/2.83436c40.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Pixel-LCD-7.63d9c151.woff",
+    "static/media/bg.d63cfd51.png": "/static/media/bg.d63cfd51.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92971a60.js",
+    "static/js/2.83436c40.chunk.js",
+    "static/css/main.6c63c993.chunk.css",
+    "static/js/main.f283e200.chunk.js"
+  ]
+}
